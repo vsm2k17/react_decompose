@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <main className="app">
-      <section className="welcome">
+      <section className="welcome1">
         <span className="welcome__text">Sticky Header!</span>
       </section>
       <header className="header">
